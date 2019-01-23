@@ -2,7 +2,7 @@
 
 |Practice|Katas|Number of sessions|
 |-|-|-|
-|Pair programming|None (use pair programming techniques in all subsequent exercises)|1|
+|Pair programming patterns|None (use pair programming techniques in all subsequent exercises)|1|
 |Classic TDD|FizzBuzz, Leap year, Fibonacci, String calculator|2|
 |Transformation Priority Premise|Roman numerals, Prime Factors, Bowling|2|
 |Object Calisthenics|TicTacToe, Game of life|2|
@@ -27,9 +27,7 @@
 
 |Practice|Katas|Number of sessions|
 |-|-|-|
-|Outside in TDD|Bank, Shopping cart|2|****
-|Design Patterns (optional)|Refactor their Mars Rover solution to Command; Strategy and State patterns|2|
-|Domain Driven Design (optional)|Discussion using their Bank and Shopping cart solutions|1|
+|Outside in TDD|Bank, Shopping cart|2|
 
 # Agile practices
 
@@ -37,8 +35,21 @@
 |-|-|-|
 |Flow|Boat Game (WIP, Lead time, Throughput)|1|
 |Measuring Flow|Actional Agile review|1|
+|Intro to Kanban|?|1|
 |Example Mapping|Passwords game|1|
 |Splitting Stories|?|1|
+|Facilitating retrospectives|?|1|
+|Shift Left testing|?|?|
+|Giving feedback|?|1|
+|Exit criteria|On real board|1|
+
+# Tooling
+
+|Practice|Katas|Number of sessions|
+|-|-|-|
+|Regular Expressions|Crossword|1|
+|Terminal productivity|Blog follow along|1|
+|Text editor productivity|kata|1|
 
 # Ideas
 

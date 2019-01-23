@@ -1,5 +1,7 @@
 # Session Overview
 
+https://app.mindmup.com/map/_free/2019/01/1b1948101f0511e9ad85535a33f2a273
+
 Goal: Give folk guidelines for how to run pairing in their teams with decent guidelines.
 
 ## Schedule
@@ -16,7 +18,7 @@ Goal: Give folk guidelines for how to run pairing in their teams with decent gui
 
 ---------------------------------------------------------------
 
-# Exercise
+# Exercise  
 
 Pair Draw: https://www.industriallogic.com/blog/pairdraw-2/
 
@@ -77,8 +79,10 @@ Then offer them to take their pictures home to hang on their fridge
 
 Take turns being navigator and driver.
 
-Driver: codes, types, moves mouse
-Navigator: Reviews, big picture, asks questions. Thinks how does this code fit in? Where will this code lead? Can we design this better?
+* Driver: codes, types, moves mouse
+* Navigator: Reviews, big picture, asks questions. Thinks how does this code fit in? Where will this code lead? Can we design this better?
+
+Talking is important:
 
 For most tasks one person will know more. They can navigate more and see it as a mentoring opportunity. The Leaner here has responsibility to make sure they are asking questions so they understand what's going on. This isn't a long term classification, even on one task a person could be an expert in SQL or Spring Boot or React and the roles switch. The learner should do the majority of the driving.
 
@@ -127,7 +131,7 @@ Question to ask yourself: “Is my pair engaged?” or “Am I engaged with my p
   * If your task is suitable, ask for a pair. Put off solo activites to outside code pairing hours
   * Don't pair 100% of the time.
 
-* Be fully present
+* Be fully **present**
 Do:
  * Communicate (Think out loud: "What are you thinking?", share your intent)
  * Take turns “driving” and “navigating”
@@ -172,6 +176,12 @@ Don’t:
 * One afternoon a week, one day.
 * Be open about tooling
 
+# Key takeaways
+
+* Core hours works well, don't pair 100% of the time
+* Be explicit about how you will switch and take breaks
+* Certain bits of work are better for pairing
+
 # Quality Links
 
 * A+: Getting started: https://www.infoq.com/articles/adopting-pair-programming
@@ -179,6 +189,7 @@ Don’t:
 * B: Introducing pairing: https://medium.com/@jdxcode/how-to-pair-program-d6741077e513
 * B: Intro to good practices when pairing: https://www.kusmin.eu/wiki/index.php/Pair_Programming
 * Academic: Study on pairing: https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+* Excerise: https://www.industriallogic.com/blog/pairdraw-2/
 
 # Interesting but perhaps not worth mentioning
 
