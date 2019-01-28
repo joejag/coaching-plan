@@ -16,6 +16,14 @@ Goal: Give folk guidelines for how to run pairing in their teams with decent gui
  * Good-Patterns
  * Anti-Patterns
 
+## Posters
+
+* How? Roles, Switching, Breaks
+* For what benefit? (post-its)
+* On what and how often? Good, Debatable, Often
+* Good practices: Engagement, Dynamics, Politness, Environment
+* Pair smells: Tiring, Stiffles creativity, Inexperienced staff, Arguing over 2 valid appraoches
+
 ---------------------------------------------------------------
 
 # Exercise  
@@ -185,13 +193,22 @@ Don’t:
 # Quality Links
 
 * A+: Getting started: https://www.infoq.com/articles/adopting-pair-programming
+* A+ Etiquette: https://dzone.com/articles/etiquette-for-pair-programming
 * A+: Anti-patterns: https://codurance.com/2015/03/15/rethinking-pair-programming/
 * B: Introducing pairing: https://medium.com/@jdxcode/how-to-pair-program-d6741077e513
 * B: Intro to good practices when pairing: https://www.kusmin.eu/wiki/index.php/Pair_Programming
-* Academic: Study on pairing: https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+* Academic: Utah study on pairing: http://www.cs.utah.edu/~lwilliam/Papers/ieeeSoftware.PDF
+* Academic: Calafornia study on pairing: https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
 * Excerise: https://www.industriallogic.com/blog/pairdraw-2/
 
 # Interesting but perhaps not worth mentioning
 
 * Some laws like SOX, HIPPA (health insurance) require code review. Start with that.
   * Traditional code review is about critique with elements of ownership and defense while pairing is collaborative
+
+# Feedback on key takeaways
+
+* Explicit switching
+* Ok to start a task with a junior if you are away in meetings
+* Take breaks
+* 10-4 core hours to pair, don't do it 100 of the time

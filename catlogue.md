@@ -1,32 +1,19 @@
-# Technical practices - Phase 1
+TDD, Simple design and improving design
+
+# Technical practices
 
 |Practice|Goal|
 |-|-|
 |Pair programming patterns|Learn how to pair effectivley and avoid common pitfalls|
 |Classic TDD|Learn how to write tests before production code and when to start refactoring|
-|TDD - Transformation Priority Premise||
+|TDD - Transformation Priority Premise|A process to evolving code|
 |Simple Design - Object Calisthenics|10 steps to simpler code|
-
-# Technical practices - Phase 2
-
-|Practice|Goal|
-|-|-|
 |Design Improvement - Refactoring techniques|Refactoring Golf, Tennis game (refactoring)|
 |Simple Design - Code Smells|None available publicly (that I'm aware) I use a proprietary exercise. I plan to make it public when time allows|
 |Design improvment - Legacy code|Gilded Rose, Trivia|
-
-# Technical practices - Phase 3
-
-|Practice|Goal|
-|-|-|
 |Simple Design - Four elements of simple design|Mars rover (start your tests from the outside most point)|
 |Simple Design - SOLID Principles|None available publicly (that I'm aware) I use a proprietary exercise. I plan to make it public when time allows|
 |TDD - Test doubles|Character copier|
-
-# Technical practices - Phase 4
-
-|Practice|Goal|
-|-|-|
 |TDD - Outside in TDD|Bank, Shopping cart|
 
 # Agile practices
