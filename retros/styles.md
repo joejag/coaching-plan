@@ -3,3 +3,4 @@
 * Liked / Change split
 * Wishes / Appreciations / Risks / Puzzles
 * Proud / Worried (team and product)
+* Focused: Improve one thing: 
