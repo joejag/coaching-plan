@@ -2,10 +2,10 @@
 
 By:
 
-* Time at company
-* Number of Siblings
-* Show size
+* Height
+* By name (without talking)* 
 * Month of birth
-* Furthest travelled to get here today
+* Furthest travelled to get here today by time
+* Time at company
 
 Ask start, middle, end
