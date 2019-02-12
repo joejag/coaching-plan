@@ -18,7 +18,7 @@
 ## Working with others
 
 * Connection (triads): Draw how changes happen in your teams repo
-* Practice (group): Discussio about styles of git: master, feature branch, gitflow
+* Practice (group): Discussion about styles of git: master, feature branch, gitflow
 * Conclusion (solo -> group): Write three facts on back of index card, share one at the end
 
 # Tips
@@ -33,6 +33,9 @@
 
 # Resources
 
+How to do everything: https://github.com/k88hudson/git-flight-rules#i-need-to-add-staged-changes-to-the-previous-commit
+
 https://ohshitgit.com/
 https://blog.sensible.io/2012/10/09/git-to-force-put-or-not-to-force-push.html
 https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
+https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f
