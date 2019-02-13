@@ -9,16 +9,20 @@
 
 * What are the first ideas that come to mind when you think of the words "TOPIC". Write in a box
 * When you do TOPIC which sentance best describes you (A, B, C, Write your own)
+* e.g. Discussion, brainstorming, charting, 
+  * what questions do you have already?, 
+  * what is the most important fact you already know about this.
 
 # Concepts
 
 * One minute myth or fact session
+* e.g. teach or discussion
 
 # Concrete Practice
 
 * Activity for solo,pair,triad,Table,WholeGroup
-* Activity types: skill, review, present, skit, simulation, conmpetition, discussion
-  
+* e.g. skill, review, present, skit, simulation, conmpetition, discussion
+
 # Conclusion
 
-* Posters, index card takeaways
+* e.g. Posters, index card takeaways
