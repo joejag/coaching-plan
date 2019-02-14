@@ -75,4 +75,11 @@ revealOptions:
 
 ---
 
+### Draw the anatomy
+
 ![](./images/general-drawing.png)
+
+---
+
+reflog
+stash

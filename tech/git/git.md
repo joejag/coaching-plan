@@ -30,6 +30,7 @@
 * stash
 * Big file destruction
 * Merge requests aren't part of Git
+* “reuse recorded resolution” can be enabled with: `git config –global rerere.enabled true`
 
 # Resources
 
