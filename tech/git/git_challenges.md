@@ -1,7 +1,7 @@
 # Part 1
 
 * Use https://github.com/k88hudson/git-flight-rules as a reference
-* 
+* https://raw.githubusercontent.com/joejag/coaching-plan/master/tech/git/create_vcs_stub.sh
 
 ## Differences
 
@@ -12,19 +12,6 @@
 * See the diff
 * Change the contents of the file in the working directory
 * Get the list of changes
-
-## Merge and fast-forward
-
-* We are on branch A
-* Create branch B
-* Make changes on branch B
-* Merge B into A
-  
-* We are on branch A
-* Create branch B
-* Makes changes on branch B
-* Makes changes on branch A
-* Merge B into A (and resolve conflict)
 
 ## Cleaning branches
 
@@ -37,22 +24,11 @@
 
 ## Staging
 
-* Create a new branch
 * Create a new file
 * Commit the new file
 * Change the existing file
 * Create a new file
 * Make two commits for each change
-
-## Pull = fetch + merge
-
-* Create new repo to be a server
-* Create two workspaces of the server
-* Make changes in one workspace and push them
-* Make non-conflicting changes in the other workspace and commit them, then pull (notice the history)
-
-* Repeat and use `git pull --rebase` instead
-* What does the history look like? Is this better?
 
 ## If you have time
 
@@ -66,9 +42,10 @@
 
 * Make a typo in a commit message and fix it
 * Make a commit, then add a file to it
-* Deleting a local commit, then retrieve it with reflog
-* Commit to master, then realise it should've gone to a feature branch
-* Commit to the wrong branch (hint: use stash, then try again with cherry-pick)
+* Delete a local commit, then retrieve it with reflog
+* Commit to master (don't push), then realise it should've gone to a feature branch
+* Commit to the wrong branch and fix it by putting it on another (hint: use stash)
+* Commit to the wrong branch and fix it by putting it on another (hint: use cherry-pick)
 
 ## Undo changes
 
@@ -77,6 +54,33 @@
 * Undo changes from second commit
 * Send commits to remote
 * Undo changes from one of the push commits
+
+----------------------------------------------------------------------------------------
+
+# Part 3
+
+## Rebase
+
+* Create new repo
+* Add two commits and push them
+* Add three local commits
+* Use rebase to drop the latest commit
+* Use rebase to reword a commit
+* Use rebase to squash the last two together into one commit
+
+## Pull = fetch + merge
+
+* Create new repo
+* Make changes in one workspace and push them
+* Make non-conflicting changes in the other workspace and commit them, then `git pull`
+* What does the history look like? What has hapepned?
+
+## Pull = fetch + rebase
+
+* Create new repo
+* Make changes in one workspace and push them
+* Make non-conflicting changes in the other workspace and commit them, then `git pull --rebase`
+* What does the history look like? Is this better?
 
 ## Feature branch conflicts - with merge
 
@@ -95,3 +99,5 @@
 * In W2, note the SHA on the feature branch
 * Integrate master using 'rebase', what happens to the log? Can you push without force? 
 * try and push, why has it been rejected?
+* Push with force
+* In W1 Add another local commit then pull. What happens to your commit on W1?

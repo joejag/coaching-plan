@@ -2,7 +2,7 @@
 
 * Title: Effective Git
 * Learning Outcome: Be able to explain git concepts, get out of trouble and know how to appropriately work with a team
-
+ 
 ## Anatomy of a repo
 
 * Connection (pair): Discuss: "what else have you used for VCS?", "Why do we use Git?", "Why does staging exist?"
