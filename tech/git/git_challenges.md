@@ -1,8 +1,7 @@
 # Part 1
 
-* Use https://github.com/k88hudson/git-flight-rules#i-want-to-delete-a-branch as a reference
-* Crete a new repo called 'hello'
-* https://www.slideshare.net/raquelmorenocarmena/git-challenges
+* Use https://github.com/k88hudson/git-flight-rules as a reference
+* 
 
 ## Differences
 
@@ -29,9 +28,6 @@
 
 ## Cleaning branches
 
-`mkdir gitlab && cd gitlab && git init --bare && cd ..`
-`git clone gitlab workstation`
-
 * Create branch A (and send to remote)
 * Create branch B (and send to remote)
 * Create branch C (and send to remote)
@@ -49,11 +45,6 @@
 * Make two commits for each change
 
 ## Pull = fetch + merge
-
-`mkdir gitlab && cd gitlab && git init --bare && cd ..`
-`git clone gitlab workstation_one && git clone gitlab workstation_two`
-
-`mkdir gitlab && cd gitlab && git init --bare && cd .. && git clone gitlab workstation_one && git clone gitlab workstation_two`
 
 * Create new repo to be a server
 * Create two workspaces of the server

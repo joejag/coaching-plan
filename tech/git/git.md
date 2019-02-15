@@ -9,7 +9,7 @@
 * Practice (pair): git practical: diff, merge+fast-forward, cleaning branches, staging, pull
 * Conclusion (solo): Draw the anatomy on an index card
 
-## When things to wrong
+## When things to wrong 
 
 * Connection (pair): Discuss your stories of getting stuck
 * Practice (pair): git practical: undo changes, conflicts
@@ -31,6 +31,7 @@
 * Big file destruction
 * Merge requests aren't part of Git
 * “reuse recorded resolution” can be enabled with: `git config –global rerere.enabled true`
+* If applied this commit will...
 
 # Resources
 

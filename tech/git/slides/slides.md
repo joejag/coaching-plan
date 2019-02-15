@@ -81,5 +81,41 @@ revealOptions:
 
 ---
 
+# When things go wrong
+
+---
+
 reflog
 stash
+
+---
+
+LEGO rebase on single repo
+
+* Change local history
+* Change shared history (force push)
+
+---
+
+LEGO merge
+
+* No new commits
+* Local changes (merge commit)
+
+---
+
+LEGO feature branch
+
+* rebase vs merge from master
+
+---
+
+# Exercise!
+
+---
+
+# Four workflow models
+
+---
+
+![](./images/paul_hammant_deployment_g-forces.jpg)
