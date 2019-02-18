@@ -84,8 +84,7 @@ revealOptions:
 
 # Exercise!
 
-* http://bit.do/basegit
-* http://bit.do/gitflight
+* http://bit.do/learngit1
 
 ---
 
@@ -147,6 +146,8 @@ https://ohshitgit.com/
 <!-- Concrete Practice -->
 
 # Exercise!
+
+* http://bit.do/learngit2
 
 ---
 
@@ -224,6 +225,8 @@ https://ohshitgit.com/
 <!-- Concrete Practice -->
 
 # Exercise!
+
+* http://bit.do/learngit3
 
 ---
 

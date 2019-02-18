@@ -1,13 +1,16 @@
 # Prepare before hand
 
-* Lego bricks
+* Lego bricks (mainly green, blue, some red and orange)
 * Index Cards
 * Sharpies
 * Whiteboard marker
 * Magic paper
-* Print out exercise sheets
-* Invite reminding folk they need a laptop
 * Post-its
+* Invite: reminding folk they need a laptop
+
+
+------------------------------------------------------------------------------------------------------------
+
 
 # Part 1: Anatomy
 
@@ -39,6 +42,10 @@ Slide 9: Pull --rebase: helps keep your commit history a bit cleaner. Circle bac
 
 (solo) Draw the anatomy on an index card
 
+
+------------------------------------------------------------------------------------------------------------
+
+
 # Part 2: When things go wrong
 
 ## Connection
@@ -63,6 +70,10 @@ Slide 2: ohshitgit. Common problems, also git-flight-rules
 (table)
 
 Question Slide: What is one fact you've learned about getting unstuck?
+
+
+------------------------------------------------------------------------------------------------------------
+
 
 # Part 3: Rebase vs Merge
 
@@ -93,6 +104,10 @@ Slide 5: rerere: Reuse recorded conflict resolutions on rebase (conflict purgato
 
 Show to each other how rebase and merge works in LEGO (one each)
 Do you think you should rebase pushed commits?
+
+
+------------------------------------------------------------------------------------------------------------
+
 
 # Part 4: Four modern workflows
 
