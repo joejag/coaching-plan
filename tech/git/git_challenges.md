@@ -53,7 +53,7 @@
 * Make changes for three commits
 * Undo changes from second commit
 * Send commits to remote
-* Undo changes from one of the push commits
+* Undo changes from one of the push commits (without using force)
 
 ----------------------------------------------------------------------------------------
 
@@ -101,3 +101,4 @@
 * try and push, why has it been rejected?
 * Push with force
 * In W1 Add another local commit then pull. What happens to your commit on W1?
+

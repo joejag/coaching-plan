@@ -60,22 +60,34 @@ revealOptions:
 
 ---
 
-### Updating the development environment 1/2
+### Updating the development environment 1/3
 
 ![](./images/fetch.png)
 
 ---
 
-### Updating the development environment 2/2
+### Updating the development environment 2/3
 
 
 ![](./images/pull.png)
 
 ---
 
+### Updating the development environment 3/3
+
+
+![](./images/pull-rebase.png)
+
+---
+
 <!-- Concrete Practice -->
 
 # Exercise!
+
+* http://bit.do/basegit
+* http://bit.do/gitflight
+
+---
 
 ![](./images/general-drawing.png)
 
@@ -170,7 +182,8 @@ https://ohshitgit.com/
 
 # Discussion (in 3s)
 
-* Draw and explain how changes happen in your teams Git repo
+* Do you usually use merge or rebase? 
+* Why?
 
 ---
 
