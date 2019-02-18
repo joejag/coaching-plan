@@ -5,39 +5,24 @@
  
 ## Anatomy of a repo
 
-* Connection (pair): Discuss: "what else have you used for VCS?", "Why do we use Git?", "Why does staging exist?"
+* Connection (table): Discuss: "what else have you used for VCS?", "Why do we use Git?", "Why does staging exist?"
 * Practice (pair): git practical: diff, merge+fast-forward, cleaning branches, staging, pull
 * Conclusion (solo): Draw the anatomy on an index card
 
 ## When things to wrong 
 
-* Connection (pair): Discuss your stories of getting stuck
+* Connection (pair): Discuss: your stories of getting stuck
 * Practice (pair): git practical: undo changes, conflicts
-* Conclusion (triad): 1 fact you've learned
+* Conclusion (four): One fact you've learned
+
+## Rebase vs Merge
+
+* Connection (pair): Discuss: Do you usually use merge or rebase? Why?
+* Practice (pair): git practical: Rebase, pull, pull-rebase, branch conflicts (merge), branch conflicts (rebase)
+* Conclusion (triad): Show to each other how rebase and merge works in LEGO (one each). Do you think you should rebase pushed commits?
 
 ## Working with others
 
-* Connection (triads): Draw how changes happen in your teams repo
+* Connection (triad): Draw how changes happen in your teams repo
 * Practice (group): Discussion about styles of git: master, feature branch, gitflow
 * Conclusion (solo -> group): Write three facts on back of index card, share one at the end
-
-# Tips
-
-* cherry-pick
-* setting up your env (email, username, editor)
-* rebase vs merge
-* multi origins
-* stash
-* Big file destruction
-* Merge requests aren't part of Git
-* “reuse recorded resolution” can be enabled with: `git config –global rerere.enabled true`
-* If applied this commit will...
-
-# Resources
-
-How to do everything: https://github.com/k88hudson/git-flight-rules#i-need-to-add-staged-changes-to-the-previous-commit
-
-https://ohshitgit.com/
-https://blog.sensible.io/2012/10/09/git-to-force-put-or-not-to-force-push.html
-https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
-https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f

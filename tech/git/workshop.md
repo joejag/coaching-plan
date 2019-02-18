@@ -43,7 +43,7 @@ Slide 9: Pull --rebase: helps keep your commit history a bit cleaner. Circle bac
 
 ## Connection
 
-(fours) 
+(pairs) 
 
 Question slide: When do you get stuck with Git?
 
@@ -60,7 +60,7 @@ Slide 2: ohshitgit. Common problems, also git-flight-rules
 
 ## Conclusion
 
-(triads)
+(table)
 
 Question Slide: What is one fact you've learned about getting unstuck?
 
@@ -68,17 +68,18 @@ Question Slide: What is one fact you've learned about getting unstuck?
 
 ## Connection
 
-(triads)
+(pairs)
 
-Question Slide: Draw and explain how changes happen in your teams Git repo
+* Do you usually use merge or rebase? 
+* Why?
 
 ## Concept
 
-Slide 1: Commit messages (from Spring Boot)
-Slide 2: Introduce Lego
-Slide 3: Lego rebase (local the remote)
-Slide 4: Merge (no local changes, local changes)
-Slide 5: Feature branches: (rebase vs merge)
+Slide 1: Introduce Lego
+Slide 2: Lego rebase (local pre-push (drop, squah, reword), change history)
+Slide 3: Merge (no local changes, local changes)
+Slide 4: Feature branches: (rebase vs merge) (rebase is entirely new commits)
+Slide 5: rerere: Reuse recorded conflict resolutions on rebase (conflict purgatory)
 
 ## Concrete Practice
 
@@ -88,7 +89,7 @@ Slide 5: Feature branches: (rebase vs merge)
 
 ## Conclusion
 
-(pairs)
+(triads)
 
 Show to each other how rebase and merge works in LEGO (one each)
 Do you think you should rebase pushed commits?
@@ -103,7 +104,8 @@ Question Slide: Draw and explain how changes happen in your teams Git repo
 
 ## Concept
 
-Slide 1: Four modern workflow models. Draw on magic paper
+Slide 1: Commit messages (from Spring Boot)
+Slide 2: Four modern workflow models. Draw on magic paper
 
 Trunk: 
 -------------------------
@@ -118,7 +120,7 @@ use diagram
 
 Forking: Open source (no write access), second remote then tooling magic to merge
 
-Slide 2: Paul Hammant, Devops, created Selenium,
+Slide 3: Paul Hammant, Devops, created Selenium,
 
 ## Conclusions
 

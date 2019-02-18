@@ -124,7 +124,7 @@ revealOptions:
 
 <!-- Connection -->
 
-# Questions (in fours)
+# Questions (in pairs)
 
 * What do you get stuck with in Git?
 
@@ -152,7 +152,7 @@ https://ohshitgit.com/
 
 <!-- Conclusion -->
 
-# Discussion (in 3s)
+# Discussion (in fours)
 
 * What is one fact you've learned about getting unstuck?
 
@@ -180,7 +180,7 @@ https://ohshitgit.com/
 
 <!-- Connection -->
 
-# Discussion (in 3s)
+# Discussion (in pairs)
 
 * Do you usually use merge or rebase? 
 * Why?
@@ -189,15 +189,7 @@ https://ohshitgit.com/
 
 <!-- Concept -->
 
-# Commit messages
-
-*If applied this commit will...*
-
-`git commit -m 'Add logging to the fizzbuzz'`
-
----
-
-# Interpretative dance through the medium of LEGO
+# Merging through the medium of LEGO
 
 ---
 
@@ -221,6 +213,14 @@ https://ohshitgit.com/
 
 ---
 
+# Rebase with conflicts
+
+* Reuse recorded resolution 
+
+`git config --global rerere.enabled 1`
+
+---
+
 <!-- Concrete Practice -->
 
 # Exercise!
@@ -229,7 +229,7 @@ https://ohshitgit.com/
 
 <!-- Conclusions -->
 
-# Activity (pairs)
+# Activity (in 3s)
 
 * Use the LEGO to show how one a rebase or merge happens in Git
 * Do you think you should rebase pushed commits?
@@ -266,6 +266,14 @@ https://ohshitgit.com/
 ---
 
 <!-- Concept -->
+
+# Commit messages
+
+*If applied this commit will...*
+
+`git commit -m 'Add logging to the fizzbuzz'`
+
+---
 
 # Four modern workflow models
 
