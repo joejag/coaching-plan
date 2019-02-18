@@ -5,7 +5,7 @@
 
 ## 1. Rebase -i
 
-* Create new repo
+* Create new repo, go to Alice.
 * Add two commits and push them
 * Add three local commits
 * Use `git rebase -i` (notice how many commits it is letting you change)
@@ -18,7 +18,7 @@
 * Create new repo
 * Make changes in Alice and push them
 * Make non-conflicting changes in Bob and commit them, see `git push` fail, then `git pull`
-* What does the history look like? What has hapepned?
+* What does the history look like? What has happened?
 
 ## 3. Pull = fetch + rebase
 
@@ -30,19 +30,21 @@
 ## 4. Feature branch conflicts - with merge
 
 * Create new repo
-* Push some commits to `master` on Alice.
-* Checkout `master` on Bob. pull. Create a feature branch. Create a commit that changes a shared file, push.
-* Change the same file on `master` on Alice. Push the change.
-* In Bob, pull `master`, integrate `master` into the feature branch using 'merge', what happens to the log?
+* As Alice, Push some commits to `master`
+* As Bob, pull the changes. Create a feature branch. Create a commit that changes a shared file, push.
+* As Alice, Change the same file on `master`. Push the change.
+* As Bob, pull `master`, integrate `master` into the feature branch using 'merge', fix the conflict. What happens to the log?
 
 ## 5. Feature branch conflicts - with rebase
 
 * Create new repo
-* Push some commits to `master` on Alice.
-* Checkout `master` Bob. pull. Create a feature branch. Create a commit that changes a shared file, push.
-* Change the same file on `master` on Alice. Push the change.
-* In Bob, note the SHAs on the feature branch
-* Integrate `master` using 'rebase', what happens to the log?
-* try and push, why has it been rejected?
-* Push with force
-* In Alice Add another local commit then pull. What happens to your commit on Alice?
+* As Alice, Push some commits to `master`
+* As Bob, pull the changes. Create a feature branch. Create a commit that changes a shared file, push.
+* As Alice, Change the same file on `master`. Push the change.
+* As Alice, check out the same feature branch
+* As Bob, take a note of the SHAs on the feature branch
+* As Bob, integrate `master` using 'rebase', what happens to the log?
+* As Bob, try and push, why has it been rejected?
+* As Bob, push with force
+* As Bob, check the SHAs, have they changed from before, why?
+* As Alice, add a non-conflictin local commit to the feature branch then pull. Can you get your commit in?
