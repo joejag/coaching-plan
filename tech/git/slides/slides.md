@@ -232,6 +232,7 @@ https://ohshitgit.com/
 # Activity (pairs)
 
 * Use the LEGO to show how one a rebase or merge happens in Git
+* Do you think you should rebase pushed commits?
 
 ---
 
@@ -275,6 +276,10 @@ https://ohshitgit.com/
 
 ---
 
+![](./images/gitflow.png)
+
+---
+
 <!-- Concrete Practice -->
 
 ![](./images/paul_hammant_deployment_g-forces.jpg)
@@ -285,5 +290,5 @@ https://ohshitgit.com/
 
 # Activity (solo)
 
-* Write three facts on back of index card
+* Write three facts you've learned on back of index card
 * Share one with the whole group

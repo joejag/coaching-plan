@@ -23,7 +23,7 @@ Slide 1: Intro: anatomy of git. Helpful mental model, similar to the ones in Pro
 Slide 2: Model: Local and remote. Benefits of DVCS can be explained (aka Index and HEAD)
 Slide 3: Clone: Content travels from remote repo to local and working directory
 Slide 4: Working Dir: Two types, known and files git is asking you to either add or ignore
-Slide 5: Add->Push: Local changes need to be added, once logically grouped then commit to local. When one or more commits then push to remote. Talk about file states (modified, staged, committed) `git status` colours
+Slide 5: Add->Push: Local changes need to be added, once logically grouped then commit to local. When one or more commits then push to remote. Talk about file states (modified, staged, committed) `git status` colours. Ask how to go back? (reset and checkout)
 Slide 6: Diffs: How to see a diff depends on where it is
 Slide 7: Fetch: Only goes from remote to local
 Slide 8: Pull: Fetch + Merge.
@@ -91,6 +91,7 @@ Slide 5: Feature branches: (rebase vs merge)
 (pairs)
 
 Show to each other how rebase and merge works in LEGO (one each)
+Do you think you should rebase pushed commits?
 
 # Part 4: Four modern workflows
 
