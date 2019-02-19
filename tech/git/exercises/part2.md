@@ -17,7 +17,7 @@
 
 ## 3. Undo changes
 
-* Make changes for three commits
+* Make three separate commits to the repo with file changes
 * Undo changes from second commit
 * Send commits to remote
 * Undo changes from one of the pushed commits (hint: using revert)
