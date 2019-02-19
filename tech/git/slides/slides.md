@@ -121,6 +121,10 @@ revealOptions:
 
 ---
 
+![](./images/pain.jpg)
+
+---
+
 <!-- Connection -->
 
 # Questions <br/>(in pairs)
@@ -149,6 +153,7 @@ revealOptions:
 ---
 
 <!-- Concrete Practice -->
+
 
 # Exercise!<br/>(in pairs)
 
