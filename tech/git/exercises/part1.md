@@ -16,7 +16,7 @@
 ## 2. Cleaning branches
 
 * In the same repo
-* Create branch A (and send to remote)
+* Create branch A off `master` (and send to remote)
 * Create branch B off `master` (and send to remote)
 * Create branch C off `master` (and send to remote)
 * Look at what branches are available locally and remotely

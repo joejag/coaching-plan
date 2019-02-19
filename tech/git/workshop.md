@@ -57,8 +57,7 @@ Question slide: When do you get stuck with Git?
 ## Concept
 
 Slide 1: Only destructive commands in git are `checkout` and `reset` for uncommitted changes. `gc` kills everything else
-Slide 1: reflog. Example of deleting a commit by `reset` then getting it back again with `cherry-pick`. Reflog works after merges, rebases, pulls.
-Slide 2: ohshitgit. Common problems, also git-flight-rules
+Slide 2: reflog. Example of deleting a commit by `reset` then getting it back again with `cherry-pick`. Reflog works after merges, rebases, pulls.
 
 ## Concerte Practice
 

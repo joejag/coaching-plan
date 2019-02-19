@@ -1,6 +1,6 @@
 # Part 3
 
-* Use this script to create repositories for each step: http://bit.do/basegit
+* Use this script to create repositories for each step: http://bit.do/basegit (it's the same as the last one)
 * For help: https://github.com/k88hudson/git-flight-rules
 
 ## 1. Rebase -i
