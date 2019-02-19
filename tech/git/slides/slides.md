@@ -82,7 +82,7 @@ revealOptions:
 
 <!-- Concrete Practice -->
 
-# Exercise!
+# Exercise!<br/>(in pairs)
 
 * http://bit.do/learngit1
 
@@ -123,13 +123,22 @@ revealOptions:
 
 <!-- Connection -->
 
-# Questions (in pairs)
+# Questions <br/>(in pairs)
 
 * What do you get stuck with in Git?
 
 ---
 
 <!-- Concept -->
+
+## Destructive commands
+
+* `checkout`
+* `reset`
+
+* `gc`
+
+---
 
 `git reflog`
 
@@ -139,13 +148,9 @@ revealOptions:
 
 ---
 
-https://ohshitgit.com/
-
----
-
 <!-- Concrete Practice -->
 
-# Exercise!
+# Exercise!<br/>(in pairs)
 
 * http://bit.do/learngit2
 
@@ -153,7 +158,7 @@ https://ohshitgit.com/
 
 <!-- Conclusion -->
 
-# Discussion (in fours)
+# Discussion <br/>(in fours)
 
 * What is one fact you've learned about getting unstuck?
 
@@ -181,7 +186,7 @@ https://ohshitgit.com/
 
 <!-- Connection -->
 
-# Discussion (in pairs)
+# Discussion <br/>(in pairs)
 
 * Do you usually use merge or rebase? 
 * Why?
@@ -194,17 +199,18 @@ https://ohshitgit.com/
 
 ---
 
-# Rebase
-
-* Change local history
-* Change shared history (force push)
-
----
-
 # Merge
 
 * No new commits
 * Local changes (merge commit)
+* Local changes with conflict
+
+---
+
+# Rebase
+
+* Change local history
+* Change shared history (force push)
 
 ---
 
@@ -224,7 +230,7 @@ https://ohshitgit.com/
 
 <!-- Concrete Practice -->
 
-# Exercise!
+# Exercise!<br/>(in pairs)
 
 * http://bit.do/learngit3
 
@@ -232,10 +238,9 @@ https://ohshitgit.com/
 
 <!-- Conclusions -->
 
-# Activity (in 3s)
+# Activity <br/>(in 3s)
 
-* Use the LEGO to show how one a rebase or merge happens in Git
-* Do you think you should rebase pushed commits?
+* Use the LEGO to show how a rebase or merge happens in Git
 
 ---
 
@@ -262,7 +267,7 @@ https://ohshitgit.com/
 
 <!-- Connection -->
 
-# Activity (in 3s)
+# Activity <br/>(in 3s)
 
 * Draw and show how changes happen in your teams Git repo
 
@@ -299,7 +304,7 @@ https://ohshitgit.com/
 
 <!-- Conclusion -->
 
-# Activity (solo)
+# Activity <br/>(solo)
 
 * Write three facts you've learned on back of index card
 * Share one with the whole group

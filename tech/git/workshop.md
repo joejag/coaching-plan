@@ -56,7 +56,8 @@ Question slide: When do you get stuck with Git?
 
 ## Concept
 
-Slide 1: reflog. Example of deleting a commit by `reset` then getting it back again with `cherry-pick`. Reflog works after merges, rebases, pulls. Only doesn't when you have never committed some files.
+Slide 1: Only destructive commands in git are `checkout` and `reset` for uncommitted changes. `gc` kills everything else
+Slide 1: reflog. Example of deleting a commit by `reset` then getting it back again with `cherry-pick`. Reflog works after merges, rebases, pulls.
 Slide 2: ohshitgit. Common problems, also git-flight-rules
 
 ## Concerte Practice
@@ -119,7 +120,7 @@ Question Slide: Draw and explain how changes happen in your teams Git repo
 
 ## Concept
 
-Slide 1: Commit messages (from Spring Boot)
+Slide 1: Commit messages (from Spring Boot) - present tense (not past (added) or present particple (adding))
 Slide 2: Four modern workflow models. Draw on magic paper
 
 Trunk: 
