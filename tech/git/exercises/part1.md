@@ -5,7 +5,7 @@
 
 ## 1. Differences
 
-* Add a file and commit it to the local repository
+* Add a file and commit it to Alice's repository
 * Change the contents of the file in the working directory
 * See the diff
 * Add the file to the staging area
