@@ -121,7 +121,7 @@ revealOptions:
 
 ---
 
-![](./images/pain.jpg)
+![](./images/git-xkcd.png)
 
 ---
 
@@ -154,6 +154,10 @@ revealOptions:
 
 <!-- Concrete Practice -->
 
+
+![](./images/pain.jpg)
+
+---
 
 # Exercise!<br/>(in pairs)
 
