@@ -6,7 +6,7 @@ revealOptions:
   backgroundTransition: 'none'
 ---
 
-# Git
+# How to be a Git master
 
 ---
 

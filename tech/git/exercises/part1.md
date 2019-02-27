@@ -1,7 +1,8 @@
 # Part 1
 
-* Use this script to create repositories for each step: http://bit.do/basegit
+* Use this script to create repositories for each step: http://bit.do/gitbase
 * For help: https://github.com/k88hudson/git-flight-rules
+* Use 'alice' for these exercises
 
 ## 1. Differences
 
@@ -12,8 +13,16 @@
 * See the diff
 * Change the contents of the file in the working directory
 * Get the list of changes (look at `git status`). What's happened?
+* Cleanup the uncommited changes
 
-## 2. Cleaning branches
+## 2. Staging multiple commits
+
+* In the same repo
+* Change an existing file
+* Create a new file
+* Make two commits for each change
+
+## 3. Cleaning branches
 
 * In the same repo
 * Create branch A off `master` (and send to remote)
@@ -23,13 +32,6 @@
 * Delete branch A only in local
 * Delete branch B only in remote
 * Delete branch C in local and remote
-
-## 3. Staging multiple commits
-
-* In the same repo
-* Change an existing file
-* Create a new file
-* Make two commits for each change
 
 ## Bonus: Check out git internals
 

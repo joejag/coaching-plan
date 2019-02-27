@@ -11,6 +11,13 @@ cd ..
 git clone gitlab alice
 cd alice
 git config user.name Alice
+echo '# README' > README.md
+git add README.md && git commit -m 'Add README' && git push origin master
+cd ..
+rm -rf alice
+git clone gitlab alice
+cd alice
+git config user.name Alice
 cd ..
 
 git clone gitlab bob
