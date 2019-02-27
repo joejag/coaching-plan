@@ -121,10 +121,6 @@ revealOptions:
 
 ---
 
-![](./images/git-xkcd.png)
-
----
-
 <!-- Connection -->
 
 # Questions <br/>(in pairs)
@@ -134,6 +130,11 @@ revealOptions:
 ---
 
 <!-- Concept -->
+
+
+![](./images/git-xkcd.png)
+
+---
 
 ## Destructive commands
 

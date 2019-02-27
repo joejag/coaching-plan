@@ -36,7 +36,7 @@ Slide 9: Pull --rebase: helps keep your commit history a bit cleaner. Circle bac
 
 (pairs)
 
-* add/commit/diff, cleaning branches, staging, .git explore
+* add/commit/diff, staging, cleaning branches, .git explore
 
 ## Conclusion
 
