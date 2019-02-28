@@ -20,7 +20,7 @@
 * In the same repo
 * Change an existing file
 * Create a new file
-* Make two commits for each change
+* Make a separate commit for each change you just made
 
 ## 3. Cleaning branches
 

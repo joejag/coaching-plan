@@ -220,6 +220,7 @@ revealOptions:
 # Rebase
 
 * Change local history
+* Avoid uninteresting merge commits
 * Change shared history (force push)
 
 ---
