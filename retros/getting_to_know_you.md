@@ -13,6 +13,6 @@
 * Only things you are comfortable sharing
 * Take empty sheet of paper
 * Write name in middle
-* Write categories outside: home, education, hobbies, family, goals, values
+* Write categories outside: home, education, hobbies, family, goals, values, previous jobs
 * Switch after 7 minutes. Do other person.
 * Present back
