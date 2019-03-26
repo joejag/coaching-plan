@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index')
 var usersRouter = require('./routes/users')
 var basicRouter = require('./routes/basic')
 var cookiedRouter = require('./routes/cookied')
+var accessKeyRouter = require('./routes/accessKey')
 
 var app = express()
 
@@ -25,6 +26,7 @@ app.use('/', indexRouter)
 app.use('/users', usersRouter)
 app.use('/basic', basicRouter)
 app.use('/cookied', cookiedRouter)
+app.use('/accesskey', accessKeyRouter)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
