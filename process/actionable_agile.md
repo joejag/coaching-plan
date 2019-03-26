@@ -32,6 +32,16 @@ It'd be good to discuss as a team:
 
 https://github.com/ActionableAgile/jira-to-analytics
 
+# Throughput
+
+* "How many in a week?"
+* Super easy to measure, hard to game without making smaller stories.
+* Number of stories completed in a sprint finished in
+
+Show:
+
+* Throughput
+
 # Cycle Time
 
 * "How fast is one story"
@@ -43,16 +53,6 @@ Show:
 
 * CycleTime Scatterplot
 * CycleTime Histogram
-
-# Throughput
-
-* "How many in a week?"
-* Super easy to measure, hard to game without making smaller stories.
-* Number of stories completed in a sprint finished in
-
-Show:
-
-* Throughput
 
 # Flow Efficiency
 
