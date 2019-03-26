@@ -1,17 +1,26 @@
 var express = require('express')
 var router = express.Router()
 
-router.use((req, res, next) => {
-  const auth = { login: 'u', password: 'p' }
+// http -v --auth u:p http://localhost:3000/basic
 
-  const b64auth = (req.headers.authorization || '').split(' ')[1] || ''
+function basicBasedLogin (headers) {
+  const b64auth = (headers.authorization || '').split(' ')[1] || ''
   const [login, password] = Buffer.from(b64auth, 'base64').toString().split(':')
 
+  const auth = { login: 'u', password: 'p' }
   if (!login || !password || login !== auth.login || password !== auth.password) {
+    return false
+  } else {
+    return true
+  }
+}
+
+router.use((req, res, next) => {
+  if (basicBasedLogin(req.headers)) {
+    next()
+  } else {
     res.set('WWW-Authenticate', 'Basic realm="401"')
     res.status(401).send('Authentication required.')
-  } else {
-    next()
   }
 })
 
