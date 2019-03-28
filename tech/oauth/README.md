@@ -53,3 +53,4 @@ If approved, your web-server code needs to call directly to Google to validate t
 Google returns an access-token and JWT token information.
 You can then decode the JWT token.
 The JWT token can then be verified against Google's published signatures, and you can do other things with the access-token over time.
+

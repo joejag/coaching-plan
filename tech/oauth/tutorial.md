@@ -4,8 +4,8 @@
  * Context: Humans interacting 
  * Intro cards: Resource Owner, Resource Server, Hacker
  * Code demo: Express with no protection (cmd line + browser)
- * http -v http://localhost:3000/users (WWW-Authenticate header)
- * Aside: Etags, 304 Not Modified
+ * http -v http://localhost:3000/users
+ * Aside: Etags, 304 Not Modified http -v http://localhost:3000/users 'If-None-Match:'
  * Human demo: Legit user asks got info, 
  * Hacker: how they can get to it?
  * Principle: Protect against money&data theft and prevent folk from wrecking your system
@@ -13,7 +13,7 @@
 * Basic Auth
  * Context: Humans interacting
  * Code demo: Express with basic auth (cmd line + browser)
- * http -v http://localhost:3000/basic
+ * http -v http://localhost:3000/basic (WWW-Authenticate header)
  * http -v --auth u:p http://localhost:3000/basic (point out base64 header, also rarely cached)
  * Browser example (show always sends the creds)
  * Human demo: 401, give card
@@ -49,6 +49,7 @@
 
 * OAuth (SSO)
  * Context: Let's use OAuth to standardise this a bit
+ * https://256stuff.com/gray/docs/oauth2.0/
  * Why? Tools are hardcorded, some have vunrabilities you can accidently expose. Bit easier to integrate.
  * Human run thourgh - just Joe
  * http://localhost:5100/login?clientId=api_demo&scope=api_demo&redirectUri=https://httpbin.org/get
