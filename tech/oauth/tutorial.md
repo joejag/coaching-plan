@@ -59,7 +59,7 @@
 
 * OAuth (service to service)
  * Context: No humans, service A calls B
- * http POST http://localhost:7041/oauth/token?grant_type=client_credentials --auth example:correct.horse.battery.staple
+ * http POST http://localhost:7041/oauth/token?grant_type=client_credentials --auth example:some_password
  * OAuth Flows: AuthorisationCode and ClientCredentials
  * OAuth 2: Easier to use, allowed mobile phone and SPA to use OAuth
 
@@ -74,7 +74,7 @@
 * Transparent tokens
  * Context: Things get chatty, also not redundant
  * Opaque vs Transparent tokens 
-*  http POST http://localhost:7041/oauth/token?grant_type=client_credentials --auth example:correct.horse.battery.staple (notice the two dots)
+*  http POST http://localhost:7041/oauth/token?grant_type=client_credentials --auth example:some_password (notice the two dots)
  * Go to jwt.io (anatomy - body doesn't have to be JSON)
  * Symmetric, Asymmetric Public key http://localhost:7041/jwks.json
  * SAML same in XML, bloated and hard to use
