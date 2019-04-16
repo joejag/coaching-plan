@@ -16,6 +16,21 @@ Toyota examples: Zero defects, 100% value adding, 1 piece flow, no injuries
 
 ## Grap the current condition
 
+How you really currently work - draw the process
+Collect two metrics: Process (leading indicators) and Outcome (the result)
+
+## Establish the next target condition
+
+Describe the desired state in the future.
+How the process should operate
+One step closer to the vision
+Copy the current, then change something
+Absolute numbers not relative
+Expiration Date (usually 3 months away)
+Should be set just outside knowledge threshold
+
+## PDCA towards target
+
 
 
 # Coaching bit
