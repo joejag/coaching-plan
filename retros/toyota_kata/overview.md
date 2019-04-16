@@ -2,9 +2,21 @@
 
 * Understand our desired destination
 * Grasp current condition
-* Next challenge/obstacle on the desired path
-* Run experiments to get to our next challenge
+* Establish next target condition (challenge/obstacle on the desired path)
+* PDCA towards target condition (Run experiments to get to our next challenge)
 * Repeat
+
+## Understand the direction
+
+"A goal is not always meant to be reached, it often serves simply as something to aim at" ~ Bruce Lee
+
+Create vision of how work works in the ideal state (process vision - not biz).
+
+Toyota examples: Zero defects, 100% value adding, 1 piece flow, no injuries
+
+## Grap the current condition
+
+
 
 # Coaching bit
 
@@ -21,3 +33,7 @@
 3. Introduce course correction (instructing or guiding)
 
 * Adjust course if necessary
+
+# Resources
+
+* http://www.methodsandtools.com/archive/toyotakata.php
