@@ -90,7 +90,7 @@ Question Slide: What is one fact you've learned about getting unstuck?
 * Slide 1: Introduce Lego
 * Slide 2: Merge (no local changes, local changes)
 * Slide 3: Lego rebase (local pre-push (drop, squash, reword), change history)
-* Slide 4: Feature branches: (rebase vs merge) (rebase is entirely new commits)
+* Slide 4: Feature branches: (rebase vs merge) (rebase is entirely new commits, needs force push to work)
 * Slide 5: rerere: Reuse recorded conflict resolutions on rebase (conflict purgatory)
 
 ## Concrete Practice

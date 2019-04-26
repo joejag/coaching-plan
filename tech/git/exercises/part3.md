@@ -6,7 +6,6 @@
 ## 1. Rebase -i
 
 * Create new repo, go to Alice.
-* Add one commit and push it
 * Add three local commits
 * Use `git rebase -i` (notice how many commits it is letting you change)
 * Use rebase to drop the latest commit
