@@ -16,11 +16,7 @@ revealOptions:
 
 ---
 
-# Accelerated Learning
-
----
-
-## Trainer's train; learners listen
+## Trainers train; learners listen
 
 ![](./images/lecturing.jpg)
 
@@ -32,11 +28,6 @@ revealOptions:
 
 ---
 
-*"Boring and effective are mutually exclusive attributes in learning. you can't be effective if your training is boring"*
-
-– Michael Allen - 2005
-
----
 <!-- .slide: data-background="./images/brain.jpg" -->
 
 ---
@@ -44,6 +35,16 @@ revealOptions:
 *"The brain research from the past two decades proves that human beings learn best when they are actively involved in the learning process – experiencing a variety of meaningful, motivating, self directed learning methods in an informal, hands-on learning environment"*
 
 – Sharon Bowman
+
+---
+
+## Shift the paradigm
+
+*"Trainers talk; learners listen"*
+
+->
+
+*"When learners talk and teach, they learn"*
 
 ---
 

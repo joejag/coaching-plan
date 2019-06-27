@@ -25,4 +25,4 @@ O9. With partners, learners make lists of topic-related facts they already know.
 # Answers
 
 P: 2,3,7. Not 1,4,5,6,8,9.
-O: 3,4,6,8. Not 1,2,4,7.
+O: 3,6,8.9 Not 1,2,4,7,5
