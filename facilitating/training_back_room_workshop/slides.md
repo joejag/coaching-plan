@@ -28,10 +28,6 @@ revealOptions:
 
 ---
 
-<!-- .slide: data-background="./images/brain.jpg" -->
-
----
-
 *"The brain research from the past two decades proves that human beings learn best when they are actively involved in the learning process – experiencing a variety of meaningful, motivating, self directed learning methods in an informal, hands-on learning environment"*
 
 – Sharon Bowman
@@ -48,21 +44,13 @@ revealOptions:
 
 ---
 
-## Content-Focused -> Learner-Focused
-
-* Use a variety of __active learning__ strategies to involve learners
-* Create an inviting, friendly, informal learning environment
-* Take time to find out what learners know
-
----
-
 ## Which do you prefer?
 
 *"Let's begin by brainstorming at least a half-dozen facts you already know about this topic"*
 
 vs
 
-*"I'm going to being by telling you what you are going to learn about this topic"*
+*"I'm going to begin by telling you what you are going to learn about this topic"*
 
 ---
 
