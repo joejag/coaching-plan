@@ -119,3 +119,7 @@
 ## Segmentation
 
 * Can use multiple in charts: convertors vs non-convertors
+
+# Advanced
+
+* Use segments, converted vs didn't. Check language, city, (Demographics) age,
