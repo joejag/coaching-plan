@@ -1,37 +1,12 @@
-PLAN
+# Part 1
 
-https://developers.google.com/optimize/devguides/experiments
-
-New app - next.js?
-New ga account
-setup goal of getting to buy page
-Landing -> product -> purchase
-Add cypress test to go through and drop off (add randomness to achieving goal)
-setup variant in Google Optimizer
-create variant which is better in app (plus randomizer)
-
-# Content
+## Content: Basic Reports and Sessions
 
 Understanding reports    
-    * Acquisition, Audience, Behaviour, Realtime
     * Sessions, Bounce Rate
-View
-    * (Organisation), Account, Property, View
-    * View best practices and filters
-Tracking pageviews and events
-    * Tracking code
-    * Sending events
-    * Custom Dimensions
-Setting up goals
-    * Macro vs Micro
-    * Goal Funnels
-    * GA destination goals
-A/B testing
-    * Statistics science
-    * Google Optimize
+    * Acquisition, Audience, Behaviour, Realtime
 
-
-# Exercise 1
+## Exercise: Challenges to do with Audience, Acquisition, Behaviour and Segments
 
 For the date range: May 1st to June 31st 2019
 
@@ -56,6 +31,76 @@ For the date range: May 1st to June 31st 2019
   * Add Mobile vs Desktop/Tablet traffic: Is there any difference in when they use the site?
   * Or Organic vs Direct: Find two interesting things in audience and behaviour
 
+
+# Part 2
+
+## Content: Tracking pages and events
+
+Tracking pageviews and events
+    * Tracking code
+    * Sending events
+    * Custom Dimensions
+
+## Exercise: Setup a site with GA. Send an event on button click.
+
+Need access to GA to create a new property
+Need site to add to? Need domain?
+
+# Part 3
+
+## Content: Views, Accounts and Properties
+
+View
+    * (Organisation), Account, Property, View
+    * View best practices and filters
+
+## Exercise: Create three views (master, raw test)
+
+
+
+# Part 4
+
+## Content: Goals. Macro and Micro
+
+Setting up goals
+    * Macro vs Micro
+    * Goal Funnels
+    * GA destination goals
+
+## Exercise: Create destination goal and funnel for your site
+
+
+# Part 5
+
+## Content: Experiments and Statistics
+
+A/B testing
+    * Statistics science
+
+## Exercise: Design an experiment and figure out how you can measure it
+
+
+# Part 6
+
+## Content: Google Optimize
+
+A/B testing
+    * Google Optimize
+
+## Exercise: Create A/B test for your site
+
+
+# Stuff
+
+https://developers.google.com/optimize/devguides/experiments
+
+New app - next.js?
+New ga account
+setup goal of getting to buy page
+Landing -> product -> purchase
+Add cypress test to go through and drop off (add randomness to achieving goal)
+setup variant in Google Optimizer
+create variant which is better in app (plus randomizer)
+
 Good link:
 https://www.slideshare.net/MasterCertifiedTrainers/map-it-using-the-4-cs-to-design-and-deliver-great-training-8962691
-
