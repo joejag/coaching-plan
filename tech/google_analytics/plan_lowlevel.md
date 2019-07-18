@@ -82,7 +82,11 @@ View
 
 ## Exercise: Create three views (master, raw test)
 
-http://www.botsimulator.com/
+Add bonus view for mobile only traffic
+
+* Rename "All Web Site Data" to "Raw Data" (you need to reload to see this change)
+* Go to "View settings" and choose "copy view", name is Master
+* Go to Raw and allow tracking of bots
 
 # Part 4
 
@@ -94,6 +98,7 @@ Setting up goals
     * GA destination goals
 
 ## Exercise: Create destination goal and funnel for your site
+
 
 
 # Part 5
