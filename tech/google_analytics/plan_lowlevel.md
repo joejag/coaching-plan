@@ -46,6 +46,8 @@ Tracking pageviews and events
 Need access to GA to create a new property
 Need site to add to? Need domain?
 
+
+
 # Part 3
 
 ## Content: Views, Accounts and Properties
@@ -56,7 +58,7 @@ View
 
 ## Exercise: Create three views (master, raw test)
 
-
+http://www.botsimulator.com/
 
 # Part 4
 
