@@ -45,17 +45,32 @@ Tracking pageviews and events
 
 Need access to GA to create a new property
 
+### Get the server deploying
+
 `yarn dev`
 `yarn deploy` # Need Zeit Now account to work
+
+### Create a GA account
+
 Google Analytics -> Admin -> Create Account
 Call it your name
 (don't link to RoS)
-add URL for Now, call it "Analytics workshop demo"
-set timezone
+add URL for Now, call it "Analytics workshop demo" (be super careful that it's the right url)
+set timezone to UK
 Accept the masses of legal stuff
+
+### Hook up the tag
+
 Add your gtag to the Layout.js:
  * <script dangerouslySetInnerHTML
  * Or use a package to do it
+Deploy
+See the "Real Time" reports. Others won't work until tomorrow.
+
+### Send an event when the user clicks on something
+
+https://developers.google.com/analytics/devguides/collection/gtagjs/events
+Add onto the 'About' page when someone clicks 'sign up' to mailing list
 
 # Part 3
 

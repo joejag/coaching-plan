@@ -21,7 +21,6 @@ gtag('js', new Date())
 gtag('config', 'UA-144094072-1')`
       }}>
       </script>
-
     </div>
   )
 }
