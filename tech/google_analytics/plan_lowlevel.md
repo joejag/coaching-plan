@@ -85,8 +85,10 @@ View
 Add bonus view for mobile only traffic
 
 * Rename "All Web Site Data" to "Raw Data" (you need to reload to see this change)
-* Go to "View settings" and choose "copy view", name is Master
-* Go to Raw and allow tracking of bots
+* Go to "View settings" and choose "copy view", name is Master (make sure removal of bot traffic is included)
+* Add a lowercase filter to the Master View (Admin >> View >> Filters)
+* Add an ip exclude to the Master View 194.34.* on IP Address (custom filter, predefined don't work with ranges)
+* Have a look at the ScotLIS filters on the Master view.
 
 # Part 4
 
