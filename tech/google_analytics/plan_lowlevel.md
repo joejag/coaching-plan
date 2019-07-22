@@ -72,6 +72,10 @@ See the "Real Time" reports. Others won't work until tomorrow.
 https://developers.google.com/analytics/devguides/collection/gtagjs/events
 Add onto the 'About' page when someone clicks 'sign up' to mailing list
 
+### Add a custom dimension
+
+TODO!
+
 # Part 3
 
 ## Content: Views, Accounts and Properties
