@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=MK6o_epUcbM&feature=youtu.be
+
 # Eradicate fear from your culture
 
 * Take the first step -> Don't do it alone
@@ -11,4 +13,10 @@
 * Self-expression over self-protection
 * Playing to win over Playing not to lose
 
-https://www.youtube.com/watch?v=MK6o_epUcbM&feature=youtu.be
+# Links
+
+* Kahoot! https://kahoot.com
+* Personal Maps
+* Happiness historgram
+* Story cubes
+
