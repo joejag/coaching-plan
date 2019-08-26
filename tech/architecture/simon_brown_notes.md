@@ -32,7 +32,7 @@ When a collection of diagrams are created. These problems arise:
 
 # Observations
 
-* Maps don't us a common notation. But you can use the key to figure it out.
+* Maps don't use a common notation. But you can use the key to figure it out.
 * Diagrams help developers navigate complex code bases
 
 # C4
