@@ -38,6 +38,10 @@ revealOptions:
 
 ---
 
+# It is ok to just observe or pass on a round
+
+---
+
 ### How to play
 
 * Deal out the fear cards evenly
@@ -60,9 +64,9 @@ revealOptions:
 
 ---
 
-### Pyschological safety
+### Psychological safety
 
-> Pyschological safety exists when people feel their workplace is an environment where they can __speak up__, __offer ideas__, __ask questions__ without fear of being punished or embarrassed
+> Psychological safety exists when people feel their workplace is an environment where they can __speak up__, __offer ideas__, __ask questions__ without fear of being punished or embarrassed
 
 Amy Edmunson "The Fearless organisation" (2018)
 
