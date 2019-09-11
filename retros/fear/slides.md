@@ -1,6 +1,6 @@
 ---
 title: 'Fear in the workplace'
-theme: solarized
+theme: beige
 revealOptions:
   transition: 'none'
   backgroundTransition: 'none'
@@ -14,17 +14,15 @@ revealOptions:
 
 # Why care about fear in the workplace?
 
-*(discuss in pairs)*
-
 ---
 
-# It is ok to just observe or pass on a round
+## It is ok to just observe <br/>or skip an activity
 
 ---
 
 ### Fear symptoms
 
-<img src="./images/fears.jpg" width="80%">
+<img src="./images/fears.jpg" width="75%">
 
 ---
 
@@ -46,21 +44,20 @@ revealOptions:
 
 * Deal out the fear cards evenly
 * One person plays a "classify me" card
-* Each person plays a card face down which they think matches the scenario best
+* Each person plays a fear card face down which they think matches the scenario best
 * The person who played a "classify me" decides which one is best
-* Discuss the scenario and cards as a group
-* Continue until out of cards
+* Discuss the scenario and fear cards as a group
+* Continue until out of fear cards
 
 ---
 
-# So how was it?
+## So how was it?
 
 ---
 
 # Activity!
 
-
-## Choose the top three fear cards you see in your workplace
+## Discuss what you already know about psychological safety
 
 ---
 
@@ -96,17 +93,21 @@ How might we do this?
 
 ---
 
+## Choose the top __three__ fear cards you see in your workplace
+
+---
+
 ### How to play
 
 * Deal out the safety cards (no need to hide them)
-* Discuss each fear card for eight minutes, looking to see which safety card could help
-* Choose a leadership, team and individual card to match each fear.
-* Decide the easiest one you could start with
+* Discuss each fear card in turn for eight minutes, looking to see which safety cards could help
+* Choose a leadership, team and individual card to match each fear
+* Decide the easiest card you could start with
 * Move onto the next fear
 
 ---
 
-# What were your fear eradication strategies?
+## What were your fear eradication strategies?
 
 ---
 
