@@ -18,6 +18,10 @@ revealOptions:
 
 ---
 
+# It is ok to just observe or pass on a round
+
+---
+
 ### Fear symptoms
 
 <img src="./images/fears.jpg" width="80%">
@@ -35,10 +39,6 @@ revealOptions:
 ## Classification cards
 
 <img src="./images/classify.jpg" width="40%">
-
----
-
-# It is ok to just observe or pass on a round
 
 ---
 
