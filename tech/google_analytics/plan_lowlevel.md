@@ -4,7 +4,7 @@
 
 Understanding reports    
     * Sessions, Bounce Rate
-    * Acquisition, Audience, Behaviour, Realtime
+    * Acquisition, Audience, Behaviour, Realtime    
 
 ## Exercise: Challenges to do with Audience, Acquisition, Behaviour and Segments
 

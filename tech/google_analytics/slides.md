@@ -25,13 +25,31 @@ revealOptions:
 
 ---
 
-# Reports and Sessions
+# Understanding reports    
 
 ---
 
-# Challenges to do with Audience, Acquisition, Behaviour and Segments
+## Understanding reports    
 
-Go to URL to see challenges
+ * User > Sessions > Pageviews
+ * Bounce rate
+
+---
+
+## Understanding reports    
+
+ * Acquisition (where from)
+ * Audience (who)
+ * Behaviour (what)
+ * Realtime (right now)
+
+---
+
+# Exercise (in pairs)
+
+## Audience, Acquisition, Behaviour and Segments challenges
+
+https://github.com/joejag/coaching-plan/blob/master/tech/google_analytics/exercises/exercise_1.md
 
 ---
 
