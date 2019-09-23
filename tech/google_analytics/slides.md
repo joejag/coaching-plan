@@ -6,186 +6,108 @@ revealOptions:
   backgroundTransition: 'none'
 ---
 
-## What do learners spend most of their time on during your training programs?
+<!--
 
-1. Reading the text, handouts, slides or manuals
-1. Listening to you
-1. Watching visuals on slides or screens
-1. Discussing concepts or practicing skills
-1. Teaching each other and learning from each other
+ __________
+< Part one >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
----
+-->
 
-## Trainers train; learners listen
+## What things do you already know about GA? 
 
-![](./images/lecturing.jpg)
-
----
-
-## Why do we do this?
-
-![](./images/lecturing.jpg)
+## What would you like to learn today?
 
 ---
 
-*"The brain research from the past two decades proves that human beings learn best when they are actively involved in the learning process – experiencing a variety of meaningful, motivating, self directed learning methods in an informal, hands-on learning environment"*
-
-– Sharon Bowman
+# Reports and Sessions
 
 ---
 
-## Shift the paradigm
+# Challenges to do with Audience, Acquisition, Behaviour and Segments
 
-*"Trainers talk; learners listen"*
-
-->
-
-*"When learners talk and teach, they learn"*
+Go to URL to see challenges
 
 ---
 
-## Which do you prefer?
+# What most suprised you from GA?
 
-*"Let's begin by brainstorming at least a half-dozen facts you already know about this topic"*
-
-vs
-
-*"I'm going to begin by telling you what you are going to learn about this topic"*
+(chat in pairs)
 
 ---
 
-# Exercise (in fours)
+<!--
 
-Group by __effective__ and __ineffective__
+ __________
+< Part two >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-Choose from:
+-->
 
-* Effective openings
-* Effective practices
+# Have you set up GA or GTM before?
 
----
-
-# Discussion <br/>(in pairs)
-  
- * One person talks, the other listens
- * After one minute switch roles
- * Explain why you should make brain friendly learning?
-
----
-
-# Discussion <br/>(in threes)
-  
- * How do you design your training workshops?
+(chat in pairs)
 
 ---
 
-*"We are not, cannot be, about designing content. A fundamental perspective I want you to take away is that we are designing experiences"* 
-
-– Clark Quinn - Engaging Learning (2005)
+# Tracking pages and events
 
 ---
 
-# The 4 Cs
+Exercise: Setup a site with GA. Send an event on button click.
 
-* Connections
-* Concepts 
-* Concrete Practice
-* Conclusions 
+Use already made app to start with
 
 ---
 
-# The 4 Cs
-
-* Connections *(share what they already know)*
-* Concepts *(direct instruction)*
-* Concrete Practice *(active practice)*
-* Conclusions *(summarise learning)*
+# Draw down the anatomy of an event on an index card
 
 ---
 
-# Exercise<br/>(in pairs)
+<!--
 
-* Write up your next workshop using 4Cs
+ __________
+< Part three >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
----
+-->
 
-<!-- .slide: data-background="./images/c1.jpg" -->
-
----
-
-# Learning Outcomes
-
-Action Word (observable behavior) <br/>+<br/> Concept/Skill <br/>=<br/> Learning Outcome
-
-* Not: *know, understand, learn*
-* Like: *demonstrate, explain, list, define, show, apply, use, act, solve, do, discuss,
-perform*
-
----
-
-<!-- .slide: data-background="./images/c2.jpg" -->
+TableTalk: Have you applied filters on GA? What might you want to remove?
+Views, Accounts and Properties
+Create three views (master, raw test)
+Draw: the GA hierarchy on your index card plus common views
 
 ---
 
-# Concepts
+<!--
 
-*(direct instruction)*
+ __________
+< Part four >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-Learners take in new information in multisensory ways: hearing, seeing, discussing, writing, reflecting, imagining,
-participating, and teaching it to others
+-->
 
----
-
-<!-- .slide: data-background="./images/c3.jpg" -->
-
----
-
-# Concrete Practice
-
-*(active practice)*
-
-Learners actively practice a skill using the new information, or they participate in an in depth, active review of what they have learned.
-
----
-
-<!-- .slide: data-background="./images/c4.jpg" -->
-
----
-
-# Conclusion
-
-*(summarise learning)*
-
-Learners summarize what they have learned, evaluate it, celebrate it, and create action plans for how they plan to use it after the class is over.
-
----
-
-<!-- .slide: data-background="./images/c5.jpg" -->
-
----
-
-# Connection
-
-*(share what they already know)*
-
-Learners make connections with what they already know or think they know about the topic, with what they will learn or want to learn, with each other, and with the instructor.
-
----
-
-# Activity <br/>(fours)
-
-Share your instructional design with a<br/> neighbouring pair
-
----
-
-
-# Activity <br/>(solo)
-  
- * Write down five things you've learned on <br/>an index card
- * You have one minute
-
----
-
-# Thanks!
-
-https://bowperson.com/sharons-articles/
+Think&Write: Write down the goal of your website
+Goals. Macro and Micro
+Create destination goal and funnel for your site
+TeachBack: Explain how to setup a goal to another person
