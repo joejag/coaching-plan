@@ -19,6 +19,8 @@ revealOptions:
 
 -->
 
+# Activity
+
 ## What things do you already know about GA? 
 
 ## What would you like to learn today?
@@ -45,7 +47,9 @@ revealOptions:
 
 ---
 
-# Exercise (in pairs)
+# Exercise
+
+(in pairs)
 
 ## Audience, Acquisition, Behaviour and Segments challenges
 
@@ -53,9 +57,11 @@ https://github.com/joejag/coaching-plan/blob/master/tech/google_analytics/exerci
 
 ---
 
-# What most suprised you from GA?
+## Activity
 
 (chat in pairs)
+
+# What most suprised you from GA?
 
 ---
 
@@ -72,21 +78,41 @@ https://github.com/joejag/coaching-plan/blob/master/tech/google_analytics/exerci
 
 -->
 
-# Have you set up GA or GTM before?
+## Activity
 
 (chat in pairs)
 
----
-
-# Tracking pages and events
+# Have you set up GA or GTM before?
 
 ---
 
-Exercise: Setup a site with GA. Send an event on button click.
-
-Use already made app to start with
+# Tracking pageviews and events
 
 ---
+
+## Adding the GA tracking code
+
+---
+
+## Sending events
+
+* Anatomy?
+
+---
+
+## Custom Dimensions
+
+
+
+---
+
+# Exercise: Setup a site with GA. Send an event on button click.
+
+Create new property on GA
+
+---
+
+# Activity
 
 # Draw down the anatomy of an event on an index card
 
