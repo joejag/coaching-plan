@@ -10,8 +10,8 @@ THE GAME
    * Person who picked classification card chooses the best. Then discuss as a group
    * Go!
 * Ask: So how was it?
- 
 * Ask: Choose the top three fears you seen in your workplace
+* 
 * Tell: Amy Edmundson definition. Fear is a disease that spreads. Build an eradication strategy
 * Intro cards:
   * we have safety enhancer cards: each one is for an individual, team or leadership

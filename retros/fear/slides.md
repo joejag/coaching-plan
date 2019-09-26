@@ -14,6 +14,14 @@ revealOptions:
 
 # Why care about fear in the workplace?
 
+<!--
+
+* Kills info flow
+* Kill innovation
+* Great people leave
+
+-->
+
 ---
 
 ## It is ok to just observe <br/>or skip an activity
@@ -30,7 +38,7 @@ revealOptions:
 
 ## Identify the fear
 
-*(in groups of four)*
+*(in groups of six)*
 
 ---
 
@@ -45,8 +53,10 @@ revealOptions:
 * Deal out the fear cards evenly
 * One person plays a "classify me" card
 * Each person plays a fear card face down which they think matches the scenario best
-* The person who played a "classify me" decides which one is best
 * Discuss the scenario and fear cards as a group
+  * How often do you see this in your workplace?
+  * How have you tried to help your teams?
+* The person who played a "classify me" decides which one is the best fit
 * Continue until out of fear cards
 
 ---
@@ -55,9 +65,17 @@ revealOptions:
 
 ---
 
-# Activity!
+# Activity
+
+## Choose the top __three__ fear cards you see in your workplace
+
+---
+
+# Activity
 
 ## Discuss what you already know about psychological safety
+
+*(in groups of three)*
 
 ---
 
@@ -89,11 +107,7 @@ How might we do this?
 
 ## Build an eradication strategy
 
-*(in groups of four)*
-
----
-
-## Choose the top __three__ fear cards you see in your workplace
+*(in groups of six)*
 
 ---
 
