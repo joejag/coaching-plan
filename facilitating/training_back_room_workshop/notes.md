@@ -138,3 +138,8 @@ Only ask questions with multiple right answers
 
 
 Life support: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4901828/
+
+
+----
+
+Cheat sheet for learning from the back of the room techniques: https://www.mindmeister.com/1257682674/training-from-back-of-the-room?fullscreen=1
