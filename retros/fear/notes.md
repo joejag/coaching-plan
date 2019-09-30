@@ -1,8 +1,8 @@
 THE GAME
 
+ * Ask: Why fear is a problem? (info flow - hide it! kill innovation! fight/flight -> leave)
  * Indicate it's ok to pass or just observe
  * Show 5 cards, ask for fist of five if the audience has seen them before
- * Ask: Why fear is a problem? (info flow - hide it! kill innovation! fight/flight -> leave)
  * Intro cards: 
    * Classification (text), put them in the middle
    * Fear or symptom of fear cards (little monsters). Deal them out with the folk playing

@@ -50,12 +50,11 @@ revealOptions:
 
 ### How to play
 
-* Deal out the fear cards evenly
+* Deal out all the the fear cards
 * One person plays a "classify me" card
 * Each person plays a fear card face down which they think matches the scenario best
 * Discuss the scenario and fear cards as a group
   * How often do you see this in your workplace?
-  * How have you tried to help your teams?
 * The person who played a "classify me" decides which one is the best fit
 * Continue until out of fear cards
 
@@ -83,15 +82,28 @@ revealOptions:
 
 > Psychological safety exists when people feel their workplace is an environment where they can __speak up__, __offer ideas__, __ask questions__ without fear of being punished or embarrassed
 
-Amy Edmunson "The Fearless organisation" (2018)
+Amy Edmunson "The Fearless Organisation" (2018)
 
 ---
 
-### Fear is a disease
+<img src="./images/zones.jpg" width="90%">
+
+<!--
+
+Comfort: Enjoy, but no challenged, don't work hard
+Apathy: Spend time jockying for position, get favour rather than ideas
+Anxiety: Fear offering ideas, new things, asking for help
+Learning: Info, ideas, help
+
+-->
+
+---
+
+### Fear is a virus
 
 > How you manage your own fear will either calm things down or further rev things up 
 
-Harriet Lerner "The dance of fear" (2001)
+Harriet Lerner "The Dance Of Fear" (2004)
 
 ---
 
