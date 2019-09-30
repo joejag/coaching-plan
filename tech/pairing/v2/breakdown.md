@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
 # Match style to ability level
 
 Expertise changes via: Tech stack, codebase familiarity, and domain knowledge

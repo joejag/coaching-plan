@@ -6,12 +6,14 @@ Level assumed for attendance: Developers or testers
 
 You will need to bring your laptop along for this session.
 
-
-
 ---
+
+# Ace Links
 
 https://stackify.com/pair-programming-styles/
 
 https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389
 
 https://xebia.com/blog/practical-styles-of-pair-programming/
+
+Strong Style: https://medium.com/@maaret.pyhajarvi/the-driver-navigator-in-strong-style-pairing-2df0ecb4f657
