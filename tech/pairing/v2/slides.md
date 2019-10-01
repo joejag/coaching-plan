@@ -56,7 +56,7 @@ revealOptions:
 
 ## Driver-Navigator
 
-Like a car trip...
+Like a car trip
 
 * Driver is tactical
 * Navigator is strategic
@@ -69,7 +69,7 @@ Switch on time or task
 
 *“For an idea to go from your head into the computer it MUST go through someone else’s hands”*
 
-* Navigator: Say what to do, keep to-do list
+* Navigator: Say what to do, keep a to-do list
 * Driver: Push back, ask questions, improvise
 
 ---
@@ -108,11 +108,11 @@ Great if you can TDD the problem
 
 ## Expertise
 
-Differs by...
+Differs by
 
 * Tech stack (e.g. Java, JavaScript)
 * Domain knowledge (e.g. Shared Plots, Mapping)
-* Code base
+* Codebase
 
 ---
 
@@ -128,7 +128,7 @@ Need to be neutralised by the person on the<br/> upward side
   * Gender, Age, Race, Nationality, Native Language
   * Editor choice, Developer vs Tester
 
-*Take more cues from your pair, interuput less, <br/>catch your reactions*
+*Take more cues from your pair, interrupt less, <br/>catch your reactions*
 
 <!--
 
@@ -272,7 +272,7 @@ https://tuple.app/pair-programming-guide/template
 
 ## Decide your driver/navigator swapping strategy
 
-* It can be worth setting a 25 minute timer and using Driver-Navigator at first
+* It can be worth setting a 25-minute timer and using Driver-Navigator at first
 * *Why: Stops one person driving for too long*
 
 ---
