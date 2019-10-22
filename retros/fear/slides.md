@@ -60,10 +60,6 @@ revealOptions:
 
 ---
 
-## So how was it?
-
----
-
 # Activity
 
 ## Choose the top __three__ fear cards you see in your workplace
@@ -83,19 +79,6 @@ revealOptions:
 > Psychological safety exists when people feel their workplace is an environment where they can __speak up__, __offer ideas__, __ask questions__ without fear of being punished or embarrassed
 
 Amy Edmunson "The Fearless Organisation" (2018)
-
----
-
-<img src="./images/zones.jpg" width="90%">
-
-<!--
-
-Comfort: Enjoy, but no challenged, don't work hard
-Apathy: Spend time jockying for position, get favour rather than ideas
-Anxiety: Fear offering ideas, new things, asking for help
-Learning: Info, ideas, help
-
--->
 
 ---
 
@@ -125,7 +108,7 @@ How might we do this?
 
 ### How to play
 
-* Deal out the safety cards (no need to hide them)
+* Place the safety cards face up on the table sorted by their type
 * Discuss each fear card in turn for eight minutes, looking to see which safety cards could help
 * Choose a leadership, team and individual card to match each fear
 * Decide the easiest card you could start with

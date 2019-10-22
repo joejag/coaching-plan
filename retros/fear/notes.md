@@ -91,7 +91,7 @@ Fearless org:
 
 Voice over silence
 Self-expression over self-protection
-Playing to win over playing to lose
+Playing to win over playing not to lose
 
 GAME / SESSION
 

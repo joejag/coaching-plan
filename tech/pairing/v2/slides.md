@@ -294,11 +294,11 @@ https://tuple.app/pair-programming-guide/template
 ## Analyze the session with a mini retro
 
 * What went well? What could improve things by 1% next time?
- * Focus: did distractions sneak in?
- * Communication: were there long stretches of no talking?
- * Pacing: did the session feel like a grind at any point?
- * Division of responsibility: did you split the work up well?
- * Code quality: was your end-product high-quality?
+ * Did distractions sneak in?
+ * Were there long stretches of no talking?
+ * Did the session feel like a grind at any point?
+ * Did you split the work up well?
+ * Was your end-product high-quality?
 
 ---
 
