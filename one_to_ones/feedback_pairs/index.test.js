@@ -26,7 +26,6 @@ test('can filter list to only include a person twice', () => {
       [['a', 'b'], ['c', 'd']],
       [['a', 'c'], ['b', 'd']],
       [['a', 'd'], ['c', 'b']],
-
       [['c', 'd'], ['a', 'b']],
       [['b', 'd'], ['a', 'c']],
       [['b', 'c'], ['a', 'd']]

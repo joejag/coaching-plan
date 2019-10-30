@@ -24,4 +24,5 @@ export const findSessions = (meetingsDesired, maxOccurences, availablePairings) 
       return proposedScheduled
     }
   }
+  throw Error('cannot find solution')
 }
