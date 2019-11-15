@@ -32,7 +32,7 @@ revealOptions:
 aka...
 
 * Classic TDD
-* Chicago School
+* Detriot School
 * Kent Beck Style
 
 ---
@@ -108,7 +108,7 @@ Anagrams
 
 ---
 
-## You don't need to do any up front design with TDD
+## You don't need to do any upfront design with TDD
 
 ---
 
@@ -116,7 +116,7 @@ Anagrams
 
 ---
 
-## Take a few myth or fact cards
+## Take a few myths or fact cards
 
 * Talk over them in a pair (8 minutes)
 * Be prepared to present your opinion on one <br/>to the room
