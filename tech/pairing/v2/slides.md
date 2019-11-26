@@ -111,7 +111,7 @@ Great if you can TDD the problem
 Differs by
 
 * Tech stack (e.g. Java, JavaScript)
-* Domain knowledge (e.g. Shared Plots, Mapping)
+* Domain knowledge (e.g. Car sales, Social Security)
 * Codebase
 
 ---
@@ -144,8 +144,12 @@ We've been told to ignore race and gender. Bad advice
 
 ## Exercise
 
-* Matching styles with experience levels
-* Expert & Expert, Expert & Novice, Novice & Novice
+* Match the four styles:
+  * Driver Navigator, Strong Style, Tour Guide,</br> Ping Pong
+* That are appropriate for these experience levels:
+  * Expert & Expert
+  * Expert & Novice
+  * Novice & Novice
 
 *(in pairs)*
 
@@ -175,6 +179,8 @@ We've been told to ignore race and gender. Bad advice
 ### Question
 
 ## When have you not enjoyed pairing?
+
+&amp;
 
 ## Can you compensate for that?
 
@@ -248,11 +254,11 @@ https://tuple.app/pair-programming-guide/template
 ## Pairing Template
 
 1. Agree on the high-level goal out loud
-1. Break the work into a handful of tasks and prioritize them
-1. Decide your driver/navigator swapping strategy
-1. Eliminate distractions
-1. Work
-1. Analyze the session with a mini retro
+2. Break the work into a handful of tasks and prioritize them
+3. Decide your driver/navigator swapping strategy
+4. Eliminate distractions
+5. Work
+6. Analyze the session with a mini retro
 
 ---
 
