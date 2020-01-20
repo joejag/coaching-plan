@@ -6,23 +6,27 @@
 
 2. Setup / Create a Repository
 
-- git config (name, email, editor)
+- git config (name, email, editor): https://swcarpentry.github.io/git-novice/02-setup/index.html
 - git init
 - git clone (something off GitLab or GitHub)
 
 3. Making Changes
 
+- Slides: Making changes
+- https://swcarpentry.github.io/git-novice/04-changes/index.html
 - git add, commit, log, status
 - repeat for change to same file, add git diff
 
 4. Reverting Changes
 
+- https://swcarpentry.github.io/git-novice/05-history/index.html
 - Revert staged changes
 - Commit a file then revert it
 - Restore older version of one file
 
 5. Ignoring
 
+- https://swcarpentry.github.io/git-novice/06-ignore/index.html
 - Ignore \*.log files
 
 6. GitLab
@@ -33,6 +37,7 @@
 
 7. GitLab collaboration
 
+- Explain: Lego merges
 - Push from two different laptops to the same repo
 - Comment on changes
 - Create a conflict and resolve it
