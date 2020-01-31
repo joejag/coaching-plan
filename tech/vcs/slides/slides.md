@@ -173,6 +173,14 @@ _Images from Rachel M. Carmena: https://rachelcarmena.github.io/2018/12/12/how-t
 
 ---
 
+# How to avoid merge conflicts
+
+- pull frequently, especially before new work
+- make smaller commits
+- break large files where two authors are working on them
+
+---
+
 <!-- Concrete Practice -->
 
 # Exercise One
