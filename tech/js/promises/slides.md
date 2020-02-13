@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 ## (in pairs)
 
-https://github.com/joejag/coaching-plan/tree/master/tech/js/promises
+http://bit.do/promise1
 
 ---
 
@@ -176,7 +176,7 @@ printAll()
 
 ## (in pairs)
 
-https://github.com/joejag/coaching-plan/tree/master/tech/js/promises
+http://bit.do/promise2
 
 ---
 
