@@ -6,7 +6,7 @@ function addStringCb (previous, current, callback) {
     } else {
       callback(null, previous + ' ' + current)
     }
-  }, Math.floor(Math.random() * 100) + 1)
+  }, Math.floor(Math.random() * 100))
 }
 
 // Promise style
@@ -17,7 +17,7 @@ function addStringPromise (previous, current) {
         reject(new Error('bang!'))
       }
       resolve(previous + ' ' + current)
-    }, Math.floor(Math.random() * 100) + 1)
+    }, Math.floor(Math.random() * 100))
   })
 }
 
