@@ -129,10 +129,6 @@ function addString(previous, current){
 
 People started writing libraries for it: https://stackoverflow.com/questions/4234619/how-to-avoid-long-nesting-of-asynchronous-functions-in-node-js
 
-Callbacks
-Promises
-Async/Await
-
 Article: https://medium.com/front-end-weekly/callbacks-promises-and-async-await-ad4756e01d90
 
 Why callback hell is a problem: https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it

@@ -20,15 +20,9 @@ _discuss in pairs_
 
 <!-- Content -->
 
-# How Javascript works
+# How the Javascript event loop works
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
----
-
-# Blocking example
-
-http://rauschma.github.io/async-examples/blocking.html
 
 ---
 
@@ -46,7 +40,7 @@ https://github.com/joejag/coaching-plan/tree/master/tech/js/promises
 
 ### Activity: Draw the event loop
 
-Using your current understanding, draw how the event loop works
+Using your current understanding, draw how the event loop works.
 
 ---
 
@@ -68,7 +62,7 @@ Using your current understanding, draw how the event loop works
 
 <!-- Connection -->
 
-## A
+## Are there any problems with Callbacks?
 
 _discuss in pairs_
 
@@ -109,7 +103,7 @@ getData(function(x){
 
 ---
 
-## Libraries were writter
+## Libraries were written
 
 ![](./images/promise_choices.png)
 
@@ -128,6 +122,7 @@ let promise = new Promise(function(resolve, reject) {
 })
 
 promise
+  .then(() => { console.log('woo') })
   .then(() => { console.log('yay') })
   .catch(alert)
 ```
@@ -137,15 +132,15 @@ promise
 # Still problems with Promises
 
 - Cannot use try/catch
-- Gotta make a .then for every promise
+- You need to make a .then for every promise
 - Looping over a list of promises is challenging
 
 ---
 
-# Async to the resuce
+# Async to the rescue
 
-- Syntactical sugar on top of promises.
-- No more chaining and reads as synchronous code
+- Syntactical sugar on top of promises
+- No more chaining and now reads like synchronous code
 
 ---
 
@@ -162,7 +157,7 @@ printAll()
 
 ---
 
-# Async to the resuce
+# Async to the rescue
 
 ```
 async function printAll(){
