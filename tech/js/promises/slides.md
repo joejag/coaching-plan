@@ -6,13 +6,13 @@ revealOptions:
   backgroundTransition: 'none'
 ---
 
-# JS Promises
+# Javascript Promises
 
 ---
 
 <!-- Connection -->
 
-## What is the difference between concurrency and parallelism?
+## Is Javascript single threaded?
 
 _discuss in pairs_
 
@@ -70,21 +70,21 @@ _discuss in pairs_
 
 <!-- Content -->
 
-## Callback hell led us to async/await via promises
+## Callback hell led us to the <br/> promised land
 
 ---
 
 We want
 
-```
-x = getData();
-y = getMoreData(x);
-z = getMoreData(y);
+```js
+x = getData()
+y = getMoreData(x)
+z = getMoreData(y)
 ```
 
 We get
 
-```
+```js
 getData(function(x){
     getMoreData(x, function(y){
         getMoreData(y, function(z){
@@ -113,17 +113,21 @@ getData(function(x){
 
 ## Standardisation happened
 
-```
-let promise = new Promise(function(resolve, reject) {
-  if(Math.random() > 0.5) {
+```js
+let promise = new Promise(function (resolve, reject) {
+  if (Math.random() > 0.5) {
     resolve('done')
   }
-  reject(new Error("bang"))
+  reject(new Error('bang'))
 })
 
 promise
-  .then(() => { console.log('woo') })
-  .then(() => { console.log('yay') })
+  .then(() => {
+    console.log('woo')
+  })
+  .then(() => {
+    console.log('yay')
+  })
   .catch(alert)
 ```
 
@@ -146,11 +150,11 @@ promise
 
 # Promise version
 
-```
-function printAll(){
-  printString("A")
-  .then(() => printString("B"))
-  .then(() => printString("C"))
+```js
+function printAll () {
+  printString('A')
+    .then(() => printString('B'))
+    .then(() => printString('C'))
 }
 printAll()
 ```
@@ -159,11 +163,11 @@ printAll()
 
 # Async to the rescue
 
-```
-async function printAll(){
-  await printString("A")
-  await printString("B")
-  await printString("C")
+```js
+async function printAll () {
+  await printString('A')
+  await printString('B')
+  await printString('C')
 }
 printAll()
 ```
