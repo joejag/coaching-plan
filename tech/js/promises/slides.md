@@ -114,7 +114,7 @@ getData(function(x){
 ## Standardisation happened
 
 ```js
-let promise = new Promise(function (resolve, reject) {
+const promise = new Promise(function (resolve, reject) {
   if (Math.random() > 0.5) {
     resolve('done')
   }
@@ -122,12 +122,8 @@ let promise = new Promise(function (resolve, reject) {
 })
 
 promise
-  .then(() => {
-    console.log('woo')
-  })
-  .then(() => {
-    console.log('yay')
-  })
+  .then(() => console.log('woo'))
+  .then(() => console.log('yay'))
   .catch(alert)
 ```
 
@@ -136,7 +132,7 @@ promise
 # Still problems with Promises
 
 - Cannot use try/catch
-- You need to make a .then for every promise
+- You need to make a `.then()` for every promise
 - Looping over a list of promises is challenging
 
 ---
