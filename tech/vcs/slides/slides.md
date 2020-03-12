@@ -165,6 +165,10 @@ _Images from Rachel M. Carmena: https://rachelcarmena.github.io/2018/12/12/how-t
 
 ---
 
+# Geting setup with Gitlab
+
+---
+
 # Playing nicely with others
 
 ---
