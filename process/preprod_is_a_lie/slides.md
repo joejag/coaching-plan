@@ -160,10 +160,10 @@ https://www.honeycomb.io/overview/
 
 ---
 
-Links:
+## Links
 
-- https://www.honeycomb.io/overview/
 - https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1
+
 - https://www.honeycomb.io/blog/the-future-of-software-is-a-sociotechnical-problem/
+
 - https://paulosman.me/2019/12/30/production-oriented-development.html
-- https://openshift-service-perf-ui-ros-infra-prod.apps.live.ocp.ros.local/summary
