@@ -23,7 +23,8 @@
 "Boring and effective are mutually exclusive attributes in learning. you can't be effective if your training is boring" Michael Allen - 2005
 
 When have you been in a brain friendly training?
- * You leant for the sheer joy of it. You learnt by doing it.  You felt accomlishment after leraning it. You taught someone else.
+
+ * You learnt for the sheer joy of it. You learnt by doing it.  You felt accomlishment after leraning it. You taught someone else.
  * Collaboration was encourged, competition de-emphasied, mistakes were neccesary part of the exercise.
 
 ### Content-Focused -> Learner-Focused
@@ -42,11 +43,7 @@ Collaborative, participatory and inclusive.
 
 ### Best or Worst - from Page 164 OR Openings from Page 87
 
-
-
-
-
-## Conclusion: Explain the difference between content focused vs learned focused training
+## Conclusion: Explain the difference between content focused vs learner focused training
 
 Pairs, 1 minutes, switch
 
@@ -60,9 +57,8 @@ Pairs, question: How do you design your training workshops?
 
 "We are not, cannot be, about designing content. A fundamental perspective I want you to take away is that we are designing experiences" - Clark Quinn - Engaging Learning (2005)
 
-Learning outcome - active
-
-2/3rds rule.
+* 2/3rds rule.
+* What if you couldn't speak?
 
 ## Concrete Practice
 
@@ -72,13 +68,25 @@ Write exercises to actively try those concepts - quiz! exercise! poster!
 Write a conclusion - to summarise their learning - quick, three things, explain to the person next to you
 Write a connection - to see what they know already
 
+## Learning outcome - active
+
+* Perform the five core refactorings
+* Explain the companies objectives for the next year
+
+## Exercise: Create a workshop
+
+* Concept: Lecture segment, but keep it multisensory
+* Concrete Exercise: Active practice or review
+* Conclusion: Summarize
+* Connection: Not icebreakers. What they know or think they know
+
 ## Conclusion
 
 Write down five things you've learned in one minute on an index card
 
-
-
 ----
+
+# Random notes
 
 https://bowperson.com/wp-content/uploads/2014/11/BagItArticle3.pdf
 
@@ -122,8 +130,6 @@ Paradigm shift - when the underlying beliefs change - "Trainers talk, learners l
 
 content-focused -> learner-focused
 
-Page 34 - Statements of two trainers
-
 ----
 
 "We are not, cannot be, about designing content. A fundamental perspective I want you to take away is that we are designing experiences" - Clark Quinn - Engaging Learning (2005)
@@ -135,10 +141,6 @@ Do the "what you'll learn bit after, not first"
 Activity - imagine you lost your voice, but still had to get them to learn. How would you do it?
 
 Only ask questions with multiple right answers
-
-
-Life support: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4901828/
-
 
 ----
 
