@@ -56,7 +56,7 @@ _Sample size: 31,000 across multiple industries_
 
 _if you are on open shift_
 
-https://openshift-service-perf-ui-ros-infra-prod.apps.live.ocp.ros.local/summary
+Link to metrics here!
 
 ---
 
