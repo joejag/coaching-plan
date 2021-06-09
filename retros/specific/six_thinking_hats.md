@@ -30,7 +30,7 @@ You can look at it from an emotional, intuitive, creative or risk management vie
 
 ## Green hat (15m)
 
-* Constructive problem solving: possibitiies, alternatives, ideas
+* Constructive problem solving: possibilities, alternatives, ideas
 * Improve things, plan actions, out of the box
 * Guide with: How can we improve X? How can we avoid Y? What if we could start W from scratch?
 
