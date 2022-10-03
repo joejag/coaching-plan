@@ -1,4 +1,4 @@
-bbr# What do learners spend most of their time on during your training programs?
+# What do learners spend most of their time on during your training programs?
 
 1. Reading the text, handouts, slides or manuals
 1. Listening to you
@@ -28,6 +28,10 @@ bbr# What do learners spend most of their time on during your training programs?
 
 ---
 
+![fit](./images/manifesto.webp)
+
+---
+
 ## Shift the paradigm
 
 _Trainers_ **talk**; _learners_ **listen**
@@ -52,7 +56,9 @@ _"I'm going to begin by telling you what you are going to learn about this topic
 
 # Exercise _(in fours)_
 
-Group by **effective** and **ineffective**. Choose between:
+Group by **effective** and **ineffective**
+
+Choose between:
 
 - **Effective openings**: _Link learners to learners, and learners to the topic_
 - **Effective practices**: _Have learners do an active skills practice or active review of content_
@@ -418,6 +424,8 @@ Learners make connections with what they already know or think they know about t
 ---
 
 # **Thank You!**
+
+## What workshop will you design?
 
 ### https://bowperson.com/sharons-articles/
 

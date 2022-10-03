@@ -6,7 +6,7 @@
 2. Folks don't remember most of what they hear. Strong auditory learners may benefit but most won't. Listening doens't mean learning, despite how entertaining it is.
 3. Better. If has images, videos. Image rich is easier to remember
 4. Discussion dramatically increases learning. Remember and use information for longer time
-5. When learners teach each other the increase their own confidence, competerance and master what they learned.
+5. When learners teach each other the increase their own confidence, competence and master what they learned.
 
 ## Concept
 
@@ -16,29 +16,24 @@
 
 - ASK: Why do we do this?
 
-- It's nothing to do with learning, it's to do with econmics of delivering training.
 - Folk expect it (since kids), companies expect it, it's easier for the trainer, trainers are SMEs
+- It's nothing to do with learning, it's to do with economics of delivering training.
   - Only one way to do: talking
   - Easy to evaluate: Did you tell them about X?
   - It takes less time to deliver a lecture then to engage learners, less resources and less physical space.
 
-### Content-Focused -> Learner-Focused
+### Sharon Bowman
+
+- Sharon studied all the brain science around learning and used it to create a framework for deliver
+  - Info Delivery should not last more than 10 minutes - short as possible, with just enough info
+  - Incorporate: Auditory, Visual and Kinesthetic changes
+  - Mix instructional strategies: group, indiv, small group
+
+### Shift the Paradigm: Content-Focused -> Learner-Focused
 
 - Take time to find out what learners know
 - Use a variety of active learning strategies to involve learners
 - Create an inviting, friendly, informal learning environment
-
-## Exercise Answers
-
-O: 3,6,8.9 Not 1,2,4,7,5
-
-P: 2,3,7. Not 1,4,5,6,8,9.
-
-
-
-
-
-
 
 # PART TWO!
 
